@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFTestPB"
+		},
+		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/4f8784b6-c008-4782-aab1-59d1609c86c2/resourcegroups/Pritesh_RG/providers/Microsoft.DataFactory/factories/3CloudADF/integrationruntimes/IR-OnPrem-SQL"
+		}
+	}
+}
