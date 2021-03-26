@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/4f8784b6-c008-4782-aab1-59d1609c86c2/resourcegroups/Pritesh_RG/providers/Microsoft.DataFactory/factories/3CloudADF/integrationruntimes/IR-OnPrem-SQL",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
